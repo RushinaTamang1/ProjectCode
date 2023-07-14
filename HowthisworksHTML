@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body  {
+              background-image: url("https://c4.wallpaperflare.com/wallpaper/327/805/166/gojira-minimalism-artwork-trees-wallpaper-preview.jpg");
+              background-repeat: no-repeat;
+              background-attachment: fixed;
+              background-size: 100% 100%;
+            }
+            #rcorners2 {
+     border-radius: 25px;
+     border: 20px solid #ffffff;
+     padding: 20px; 
+     width: 5300px;
+     height: 5000px;  
+     color: #757171;
+     border-radius: 25px; 
+    }
+    .center {
+     font-size: 6em;
+     margin: 0;
+     padding: 0;
+     text-align: center;
+     font-family: Arial, Helvetica, sans-serif;
+     position: absolute;
+     top: 40%;
+     left: 50%;
+     transform: translateX(-50%) translateY(-50%);
+    }
+    .center3 {
+     font-size: 6em;
+     margin: 0;
+     padding: 0;
+     text-align: center;
+     font-family: Arial, Helvetica, sans-serif;
+     position: absolute;
+     top: 140%;
+     left: 50%;
+     transform: translateX(-50%) translateY(-50%);
+    }
+    .center2 {
+     font-size: 6em;
+     margin: 0;
+     padding: 0;
+     text-align: center;
+     font-family: Arial, Helvetica, sans-serif;
+     position: absolute;
+     top: 90%;
+     left: 50%;
+     transform: translateX(-50%) translateY(-50%);
+    }
+    .center4 {
+     font-size: 6em;
+     margin: 0;
+     padding: 0;
+     text-align: center;
+     font-family: Arial, Helvetica, sans-serif;
+     position: absolute;
+     top: 170%;
+     left: 50%;
+     transform: translateX(-50%) translateY(-50%);
+    }
+    .center5 {
+     font-size: 8em;
+     margin: 0;
+     padding: 0;
+     text-align: center;
+     font-family: Arial, Helvetica, sans-serif;
+     position: absolute;
+     top: 20%;
+     left: 50%;
+     transform: translateX(-50%) translateY(-50%);
+    }
+              </style>
+    </head>
+    <div id="rcorners2">
+<h1 class="center5"><font color="#ffffff">The Working Principal of the Atomic Mass Calculator</font></h1>
+<p class="center"><font color="#ffffff">Atomic mass is the mass of one atom of a given element. Unified atomic mass unit is the unit of the atomic mass and is given the symbol ‘u’. Atomic mass of an atom is equal to the total mass of all the electrons, protons and neutrons present in one atom.</font></p>
+<p class="center2"><font color="#ffffff">The mass of an electron is negligible when compared to the mass of a proton or a neutron. <br>Hence, you can say that the atomic mass is equal to the total mass of all the protons and neutrons present in the nucleus of an atom.<br>
+  As we can observe that from a lot of experiments done for atomic models, it is evident that the most of the matter is concentrated at apoint in an atom, and we also know that the concentrated point is the nucleus and it contains the protons and neutrons only.<br>
+Hence, in order to obtain the atomic mass of a particular atom, you simply add the number of protons and the number of neutrons present in the atom. For example, consider an oxygen atom having 8 electrons, 8 protons and 8 neutrons. Simply add 8 protons and 8 neutrons to obtain the atomic mass of oxygen.</font></p>
+<p class="center3"><font color="#ffffff">So, on the basis of this theory, this calculator works by adding the number of protons and neutrons of an element.<br>
+  How do I use this calculator?<br>
+ <ol class="center4">
+  <li>Choose an element.</li>
+  <li>Go to the Periodic Chart section.</li>
+  <li>Find your element.</li>
+  <li>Recognize the element's number of protons and neutrons and remember it.</li>
+  <li>Go to the Atomic Mass Calculator.</li>
+  <li>Put in your values</li>
+  <li>And calculate your element's Atomic Mass.</li>
+ </ol>
+</font></p>
+
+</div>
+</html>
